@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pullover
+  - RightViveController
+  - LeftViveController
+  - WaterCurved
+  - Stab
+  - Waschbecken
+  - Water
+  - natrium
+  - lithium
+  - kupfer
+  - calcium
+  - inhalt
+  - salzstein
   layers:
   - Default
   - TransparentFX
